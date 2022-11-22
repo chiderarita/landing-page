@@ -1,0 +1,151 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#landing {
+    background: #1f2937;
+    height: 400px;
+}
+.mine{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-bottom: 70px;
+}
+.mine> div {
+    margin-top: 10px;
+}
+.three {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+.done {
+    display: flex;
+    gap: 12px;
+    color: #E5E7EB;
+    font: 18px;
+}
+.web {
+    display: flex;
+    justify-content: space-around;
+    color: #F9FAF8;
+    margin: 0 70px;
+}
+
+.place {
+    background: gray;
+    height: 140px;
+    width: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kill {
+    font-size: 48px;
+    font-weight: bolder;
+}
+.like {
+    font-size: 12px;
+    margin-bottom: 10px
+}
+.came {
+    background: #3882F6;
+    height: 25px;
+    width: 80px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#work {
+    background: white;
+    height: 350px;
+}
+.random {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+    font-weight: bolder;
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: #1F2937;
+}
+.infor {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+.nawe {
+    border: 2px solid #3882F6;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.subtext {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.tab {
+    max-width: 150px;
+}
+
+.some {
+    background: #E5E7EB;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.one{
+    max-width: 700px;
+    font-style: italic;
+    font-size: 36px; 
+    color: #1F2937;
+}
+.noo{
+    font-weight: bolder;
+    margin-top: 160px;
+    color: #1F2937;
+
+}
+
+.action {
+    background: white;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.odin {
+    background: #3882F6;
+    height: 100px;
+    width: 800px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+.our {
+    font-weight: bolder;
+}
+.click {
+    border: 1px solid white ;
+    height: 20px;
+    width: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+}
+
+#copy-right {
+    background: #1f2937;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
